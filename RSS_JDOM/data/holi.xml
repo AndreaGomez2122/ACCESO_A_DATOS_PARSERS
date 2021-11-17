@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:ue="http://www.elmundo.es/imasd/rss/" version="2.0">
+  <channel>
+    <title><![CDATA[Portada // elmundo]]></title>
+    <link>https://www.elmundo.es</link>
+    <description><![CDATA[Portada // elmundo]]></description>
+    <language>es</language>
+    <copyright><![CDATA[(c)  2021, Unidad Editorial, S.A.]]></copyright>
+    <pubDate>Sun, 31 Oct 2021 20:22:34 +0100</pubDate>
+    <lastBuildDate>Sun, 31 Oct 2021 20:22:34 +0100</lastBuildDate>
+    <category><![CDATA[News & Politics]]></category>
+    <ttl>60</ttl>
+    <atom:link href="http://www.elmundo.es/rss/index.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <title><![CDATA[Portada // elmundo]]></title>
+      <url>https://e00-elmundo.uecdn.es/imagen/canalima144.gif</url>
+      <link>https://www.elmundo.es</link>
+      <width>144</width>
+      <height>24</height>
+      <description><![CDATA[elmundo.es]]></description>
+    </image>
+    <item>
+      <title><![CDATA[Sánchez reduce la prometida derogación de la reforma laboral a cambiar solo "algunas cosas"]]></title>
+      <description><![CDATA[El presidente respalda a Calviño y ve "fundamental" el apoyo no sólo de los sindicatos, sino también de los empresarios&nbsp;<a href="https://www.elmundo.es/economia/2021/10/31/617ec82ee4d4d8c8398b459a.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[CARLOS SEGOVIA]]></creator>
+      <link>https://www.elmundo.es/economia/2021/10/31/617ec82ee4d4d8c8398b459a.html</link>
+      <category><![CDATA[Nadia Calviño]]></category>
+      <category><![CDATA[UGT]]></category>
+      <category><![CDATA[Ursula von der Leyen]]></category>
+      <category><![CDATA[Comisión Europea]]></category>
+      <category><![CDATA[Estados Unidos]]></category>
+      <category><![CDATA[OTAN]]></category>
+      <category><![CDATA[Madrid]]></category>
+      <category><![CDATA[España]]></category>
+      <category><![CDATA[CEOE]]></category>
+      <category><![CDATA[CCOO]]></category>
+      <category><![CDATA[PP]]></category>
+      <category><![CDATA[Carmen Calvo]]></category>
+      <category><![CDATA[PSOE]]></category>
+      <category><![CDATA[Pedro Sánchez]]></category>
+      <category><![CDATA[reforma laboral]]></category>
+      <media:description type="html"><![CDATA[El presidente respalda a Calviño y ve "fundamental" el apoyo no sólo de los sindicatos, sino también de los empresarios]]></media:description>
+      <media:title type="html"><![CDATA[CUMBRE DEL G20]]></media:title>
+      <guid>https://www.elmundo.es/economia/2021/10/31/617ec82ee4d4d8c8398b459a.html</guid>
+      <pubDate>Sun, 31 Oct 2021 18:11:47 +0100</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Moncloa y el PSOE alertan contra Díaz: "Está usando la reforma laboral para su candidatura contra Sánchez"]]></title>
+      <description><![CDATA[Ven intereses electoralistas en la posición de la vicepresidenta y ex altos cargos del Estado ven en su desafío al presidente el reflejo del ''trastorno institucional'' que sufre España&nbsp;<a href="https://www.elmundo.es/espana/2021/10/30/617d66e521efa04d7b8b45f5.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[LUCÍA MÉNDEZ]]></creator>
+      <link>https://www.elmundo.es/espana/2021/10/30/617d66e521efa04d7b8b45f5.html</link>
+      <category><![CDATA[Unidas Podemos]]></category>
+      <category><![CDATA[PSOE]]></category>
+      <category><![CDATA[Yolanda Díaz]]></category>
+      <category><![CDATA[Nadia Calviño]]></category>
+      <category><![CDATA[Pedro Sánchez]]></category>
+      <category><![CDATA[España]]></category>
+      <category><![CDATA[Albert Rivera]]></category>
+      <category><![CDATA[Soraya Sáenz de Santamaría]]></category>
+      <category><![CDATA[María Dolores de Cospedal]]></category>
+      <category><![CDATA[PP]]></category>
+      <category><![CDATA[Margarita Robles]]></category>
+      <category><![CDATA[Rosa Díez]]></category>
+      <category><![CDATA[Pablo Iglesias]]></category>
+      <category><![CDATA[Irene Montero]]></category>
+      <category><![CDATA[gobierno]]></category>
+      <category><![CDATA[presidente]]></category>
+      <category><![CDATA[comunicación]]></category>
+      <media:description type="html"><![CDATA[Ven intereses electoralistas en la posición de la vicepresidenta y ex altos cargos del Estado ven en su desafío al presidente el reflejo del ''trastorno institucional'' que sufre España]]></media:description>
+      <media:title type="html"><![CDATA[POLÍTICA]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/30/16356082541536.jpg" medium="image" width="2792" height="1454" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/30/16356082541536_150x0.jpg" width="150" height="78" />
+      <guid>https://www.elmundo.es/espana/2021/10/30/617d66e521efa04d7b8b45f5.html</guid>
+      <pubDate>Sat, 30 Oct 2021 22:39:24 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[La familia de Álex: "Se lo llevó en un minuto. En 19 meses la Justicia podía haber hecho algo"]]></title>
+      <description><![CDATA["Es una tragedia difícil de asumir" ha dicho el ministro Grande-Marlaska al que le han pedido explicaciones por el tercer grado que disfrutaba el presunto asesino&nbsp;<a href="https://www.elmundo.es/espana/2021/10/31/617e6d1fe4d4d82f268b459d.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[JUAN DIEGO MADUEÑO]]></creator>
+      <link>https://www.elmundo.es/espana/2021/10/31/617e6d1fe4d4d82f268b459d.html</link>
+      <category><![CDATA[Guardia Civil]]></category>
+      <category><![CDATA[La Rioja]]></category>
+      <category><![CDATA[Logroño]]></category>
+      <category><![CDATA[Niños]]></category>
+      <category><![CDATA[Agresiones sexuales]]></category>
+      <media:description type="html"><![CDATA["Es una tragedia difícil de asumir" ha dicho el ministro Grande-Marlaska al que le han pedido explicaciones por el tercer grado que disfrutaba el presunto asesino]]></media:description>
+      <media:title type="html"><![CDATA[ESPAÑA]]></media:title>
+      <guid>https://www.elmundo.es/espana/2021/10/31/617e6d1fe4d4d82f268b459d.html</guid>
+      <pubDate>Sun, 31 Oct 2021 15:51:12 +0100</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[La juez mete en prisión al presunto asesino del niño de  Lardero]]></title>
+      <description><![CDATA[Le imputa un delito de homicidio y él se ha acogido a su derecho a no declarar&nbsp;<a href="https://www.elmundo.es/espana/2021/10/31/617e8cd8fc6c83662f8b45d9.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[GEMA PEÑALOSA]]></creator>
+      <link>https://www.elmundo.es/espana/2021/10/31/617e8cd8fc6c83662f8b45d9.html</link>
+      <media:description type="html"><![CDATA[Le imputa un delito de homicidio y él se ha acogido a su derecho a no declarar]]></media:description>
+      <media:title type="html"><![CDATA[ESPAÑA]]></media:title>
+      <guid>https://www.elmundo.es/espana/2021/10/31/617e8cd8fc6c83662f8b45d9.html</guid>
+      <pubDate>Sun, 31 Oct 2021 13:58:49 +0100</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Ayuso también tiene bloqueados en WhatsApp a colaboradores de Almeida y a ex trabajadores suyos]]></title>
+      <description><![CDATA[Además de García Egea, la presidenta madrileña ha vetado a Ángel Carromero, a Rosalía Gonzalo, a Ana Pérez Baos y a A. B. entre otros&nbsp;<a href="https://www.elmundo.es/espana/2021/10/30/617d9c8e21efa0db5b8b456d.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[Juanma Lamet]]></creator>
+      <link>https://www.elmundo.es/espana/2021/10/30/617d9c8e21efa0db5b8b456d.html</link>
+      <category><![CDATA[Madrid]]></category>
+      <category><![CDATA[PP]]></category>
+      <category><![CDATA[WhatsApp]]></category>
+      <category><![CDATA[Teodoro García Egea]]></category>
+      <category><![CDATA[Comunidad de Madrid]]></category>
+      <category><![CDATA[Pablo Casado]]></category>
+      <category><![CDATA[Esperanza Aguirre]]></category>
+      <category><![CDATA[EL MUNDO]]></category>
+      <category><![CDATA[Isabel Díaz Ayuso]]></category>
+      <category><![CDATA[poder]]></category>
+      <category><![CDATA[presidente]]></category>
+      <category><![CDATA[HBPR]]></category>
+      <media:description type="html"><![CDATA[Además de García Egea, la presidenta madrileña ha vetado a Ángel Carromero, a Rosalía Gonzalo, a Ana Pérez Baos y a A. B. entre otros]]></media:description>
+      <media:title type="html"><![CDATA[PP MADRID]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/30/16356234146050.jpg" medium="image" width="3072" height="2076" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/30/16356234146050_150x0.jpg" width="150" height="101" />
+      <guid>https://www.elmundo.es/espana/2021/10/30/617d9c8e21efa0db5b8b456d.html</guid>
+      <pubDate>Sun, 31 Oct 2021 11:07:42 +0100</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Rescatando a mis difuntos para que no los reentierre el volcán]]></title>
+      <description><![CDATA[Los tres muertos ya rescatados y el dolor de un padre: "Si la lava entierra el cementerio, sería como si me mataran a mi hija dos veces". Con un pico y bajo la luz irradiada por la lava del volcán, un hombre profanó el nicho de su familia. "Muchos vecinos" de La Palma piden exhumar a sus seres queridos por temor a una segunda 'sepultura'&nbsp;<a href="https://www.elmundo.es/cronica/2021/10/30/617c2546e4d4d8087d8b45d7.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[Andros Lozano]]></creator>
+      <link>https://www.elmundo.es/cronica/2021/10/30/617c2546e4d4d8087d8b45d7.html</link>
+      <category><![CDATA[Volcán La Palma]]></category>
+      <category><![CDATA[La Palma]]></category>
+      <category><![CDATA[Canarias]]></category>
+      <category><![CDATA[Guardia Civil]]></category>
+      <category><![CDATA[Justicia]]></category>
+      <category><![CDATA[salud]]></category>
+      <media:description type="html"><![CDATA[Los tres muertos ya rescatados y el dolor de un padre: "Si la lava entierra el cementerio, sería como si me mataran a mi hija dos veces". Con un pico y bajo la luz irradiada por la lava del volcán, un hombre profanó el nicho de su familia. "Muchos vecinos" de La Palma piden exhumar a sus seres queridos por temor a una segunda 'sepultura']]></media:description>
+      <media:title type="html"><![CDATA[TUMBAS ASALTADAS]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/29/16355293122346.jpg" medium="image" width="1920" height="2160" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/29/16355293122346_150x0.jpg" width="150" height="168" />
+      <guid>https://www.elmundo.es/cronica/2021/10/30/617c2546e4d4d8087d8b45d7.html</guid>
+      <pubDate>Sat, 30 Oct 2021 23:17:35 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Los países del G20 acuerdan limitar el calentamiento global a 1,5 grados tras una larga negociación]]></title>
+      <description><![CDATA[El club que incluye a China e India acepta que hay que tomar "medidas significativas" para conseguir este umbral que evita disparar los fenómenos meteorológicos extremos&nbsp;<a href="https://www.elmundo.es/ciencia-y-salud/medio-ambiente/2021/10/31/617e92e7fc6c83e61d8b4588.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[CARLOS SEGOVIA]]></creator>
+      <link>https://www.elmundo.es/ciencia-y-salud/medio-ambiente/2021/10/31/617e92e7fc6c83e61d8b4588.html</link>
+      <category><![CDATA[China]]></category>
+      <category><![CDATA[Rusia]]></category>
+      <category><![CDATA[India]]></category>
+      <category><![CDATA[ONU]]></category>
+      <category><![CDATA[acuerdo]]></category>
+      <category><![CDATA[Mundo]]></category>
+      <category><![CDATA[Cambio Climático]]></category>
+      <media:description type="html"><![CDATA[El club que incluye a China e India acepta que hay que tomar "medidas significativas" para conseguir este umbral que evita disparar los fenómenos meteorológicos extremos]]></media:description>
+      <media:title type="html"><![CDATA[MEDIO AMBIENTE]]></media:title>
+      <guid>https://www.elmundo.es/ciencia-y-salud/medio-ambiente/2021/10/31/617e92e7fc6c83e61d8b4588.html</guid>
+      <pubDate>Sun, 31 Oct 2021 14:41:25 +0100</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Laurence Tubiana: "La Cumbre de Glasgow no será un éxito como París ni un fracaso como Copenhague"]]></title>
+      <description><![CDATA[Ante la decisiva COP26, la "arquitecta" del Acuerdo de París asegura que "la realidad de las emisiones es implacable" y considera que "los científicos ya han hecho su trabajo: Ahora le toca a los líderes"&nbsp;<a href="https://www.elmundo.es/ciencia-y-salud/medio-ambiente/2021/10/31/617adaa7e4d4d83d6e8b45b6.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[CARLOS FRESNEDA]]></creator>
+      <link>https://www.elmundo.es/ciencia-y-salud/medio-ambiente/2021/10/31/617adaa7e4d4d83d6e8b45b6.html</link>
+      <category><![CDATA[Medio Ambiente]]></category>
+      <category><![CDATA[Ciencia y Salud]]></category>
+      <category><![CDATA[ciencia]]></category>
+      <category><![CDATA[Cambio Climático]]></category>
+      <media:description type="html"><![CDATA[Ante la decisiva COP26, la "arquitecta" del Acuerdo de París asegura que "la realidad de las emisiones es implacable" y considera que "los científicos ya han hecho su trabajo: Ahora le toca a los líderes"]]></media:description>
+      <media:title type="html"><![CDATA[COP26|Presidenta de la Fundación Europea para el Clima]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/29/16355193831830.jpg" medium="image" width="1137" height="1280" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/29/16355193831830_150x0.jpg" width="150" height="168" />
+      <guid>https://www.elmundo.es/ciencia-y-salud/medio-ambiente/2021/10/31/617adaa7e4d4d83d6e8b45b6.html</guid>
+      <pubDate>Sun, 31 Oct 2021 13:29:35 +0100</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Argelia cierra este domingo el gasoducto del Magreb que atraviesa Marruecos]]></title>
+      <description><![CDATA[El país magrebí asegura que lo compensará con más capacidad de Medgaz, la otra infraestructura que comparten los dos países.&nbsp;<a href="https://www.elmundo.es/economia/2021/10/31/617e65ecfdddffad618b456f.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[EFE]]></creator>
+      <link>https://www.elmundo.es/economia/2021/10/31/617e65ecfdddffad618b456f.html</link>
+      <category><![CDATA[Argelia]]></category>
+      <category><![CDATA[España]]></category>
+      <category><![CDATA[Marruecos]]></category>
+      <category><![CDATA[África]]></category>
+      <category><![CDATA[gas]]></category>
+      <category><![CDATA[Mundo]]></category>
+      <category><![CDATA[economía]]></category>
+      <media:description type="html"><![CDATA[El país magrebí asegura que lo compensará con más capacidad de Medgaz, la otra infraestructura que comparten los dos países.]]></media:description>
+      <media:title type="html"><![CDATA[ECONOMÍA]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/31/16356737487953.jpg" medium="image" width="3072" height="2034" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/31/16356737487953_150x0.jpg" width="150" height="99" />
+      <guid>https://www.elmundo.es/economia/2021/10/31/617e65ecfdddffad618b456f.html</guid>
+      <pubDate>Sun, 31 Oct 2021 10:54:45 +0100</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Verdades y mentiras del Polexit]]></title>
+      <description><![CDATA[&nbsp;<a href="https://www.elmundo.es/internacional/2021/10/31/617d739821efa0c76b8b4589.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[SILVIA ROMÁN]]></creator>
+      <link>https://www.elmundo.es/internacional/2021/10/31/617d739821efa0c76b8b4589.html</link>
+      <category><![CDATA[Polonia]]></category>
+      <media:description type="html"><![CDATA[<strong>PAÍS PROTAGONISTA. Polonia. POBLACIÓN. 38 millones. DEBATE. ¿Realmente está sobre la mesa la opción de la salida de Polonia de la Unión Europea como aconteció con Reino]]></media:description>
+      <media:title type="html"><![CDATA[DIPLOMACIA & GEOPOLÍTICA]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/30/16356115382359.jpg" medium="image" width="1200" height="800" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/30/16356115382359_150x0.jpg" width="150" height="100" />
+      <guid>https://www.elmundo.es/internacional/2021/10/31/617d739821efa0c76b8b4589.html</guid>
+      <pubDate>Sun, 31 Oct 2021 01:48:19 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[El Atlético encuentra la calma bajo la tormenta]]></title>
+      <description><![CDATA[Los rojiblancos golean al Betis en la tarde más tranquila de la temporada. Carrasco abrió el marcador y Joao Félix, que marcó su primer tanto del curso, lo cerró con permiso del VAR&nbsp;<a href="https://www.elmundo.es/deportes/futbol/primera-division/2021/10/31/617ed1f821efa09c058b4586.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[CARLOS GUISASOLA]]></creator>
+      <link>https://www.elmundo.es/deportes/futbol/primera-division/2021/10/31/617ed1f821efa09c058b4586.html</link>
+      <category><![CDATA[deportes]]></category>
+      <category><![CDATA[Primera División]]></category>
+      <category><![CDATA[fútbol]]></category>
+      <category><![CDATA[Atlético de Madrid]]></category>
+      <category><![CDATA[Real Betis Balompié]]></category>
+      <media:description type="html"><![CDATA[Los rojiblancos golean al Betis en la tarde más tranquila de la temporada. Carrasco abrió el marcador y Joao Félix, que marcó su primer tanto del curso, lo cerró con permiso del VAR]]></media:description>
+      <media:title type="html"><![CDATA[LALIGA|Atlético 3 - Betis 0]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/31/16357011184872.jpg" medium="image" width="3072" height="2014" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/31/16357011184872_150x0.jpg" width="150" height="98" />
+      <guid>https://www.elmundo.es/deportes/futbol/primera-division/2021/10/31/617ed1f821efa09c058b4586.html</guid>
+      <pubDate>Sun, 31 Oct 2021 18:27:50 +0100</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[El oficio de los locos masoquistas]]></title>
+      <description><![CDATA[&nbsp;<a href="https://www.elmundo.es/deportes/futbol/primera-division/2021/10/31/617d8b2bfdddfff39a8b45bd.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[Iñako Díaz-Guerra]]></creator>
+      <link>https://www.elmundo.es/deportes/futbol/primera-division/2021/10/31/617d8b2bfdddfff39a8b45bd.html</link>
+      <category><![CDATA[Ronald Koeman]]></category>
+      <category><![CDATA[FC Barcelona]]></category>
+      <category><![CDATA[Carlo Ancelotti]]></category>
+      <category><![CDATA[fútbol]]></category>
+      <category><![CDATA[Liga Española]]></category>
+      <media:description type="html"><![CDATA[<strong>Ronald Koeman </strong>llegó al banquillo del Barça como una leyenda y, 14 meses más tarde, lo abandonó como un paria. El autor del gol que acabó con todos los traumas c]]></media:description>
+      <media:title type="html"><![CDATA[LA CLÁUSULA]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/30/16356176941429.jpg" medium="image" width="3072" height="2048" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/30/16356176941429_150x0.jpg" width="150" height="100" />
+      <guid>https://www.elmundo.es/deportes/futbol/primera-division/2021/10/31/617d8b2bfdddfff39a8b45bd.html</guid>
+      <pubDate>Sun, 31 Oct 2021 17:40:23 +0100</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[El histórico gobernante PLD mantiene la mayoría parlamentaria en las elecciones de Japón]]></title>
+      <description><![CDATA[Contra algunos pronósticos, el Partido Liberal Democrático logra la mayoría parlamentaria en solitario con 258 escaños&nbsp;<a href="https://www.elmundo.es/internacional/2021/10/31/617ecd4b21efa0601d8b45b9.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[LUCAS DE LA CAL]]></creator>
+      <link>https://www.elmundo.es/internacional/2021/10/31/617ecd4b21efa0601d8b45b9.html</link>
+      <category><![CDATA[Japón]]></category>
+      <category><![CDATA[partido]]></category>
+      <media:description type="html"><![CDATA[Contra algunos pronósticos, el Partido Liberal Democrático logra la mayoría parlamentaria en solitario con 258 escaños]]></media:description>
+      <media:title type="html"><![CDATA[ASIA]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/31/16357001159425.jpg" medium="image" width="3072" height="2049" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/31/16357001159425_150x0.jpg" width="150" height="100" />
+      <guid>https://www.elmundo.es/internacional/2021/10/31/617ecd4b21efa0601d8b45b9.html</guid>
+      <pubDate>Sun, 31 Oct 2021 18:19:06 +0100</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Simón Pedro Barceló: "España lo tiene todo para ser una historia de éxito"]]></title>
+      <description><![CDATA[El grupo Barceló cumple 90 años convertido en una de los más importantes conglomerados del turismo español.&nbsp;<a href="https://www.elmundo.es/economia/actualidad-economica/2021/10/31/617a6802e4d4d84b628b45a2.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[RAQUEL VILLAÉCIJA]]></creator>
+      <link>https://www.elmundo.es/economia/actualidad-economica/2021/10/31/617a6802e4d4d84b628b45a2.html</link>
+      <category><![CDATA[España]]></category>
+      <category><![CDATA[Coronavirus]]></category>
+      <category><![CDATA[Madrid]]></category>
+      <category><![CDATA[Estados Unidos]]></category>
+      <category><![CDATA[África]]></category>
+      <category><![CDATA[Portugal]]></category>
+      <category><![CDATA[México]]></category>
+      <category><![CDATA[Barcelona]]></category>
+      <category><![CDATA[Cataluña]]></category>
+      <category><![CDATA[Asia]]></category>
+      <category><![CDATA[Europa]]></category>
+      <category><![CDATA[Actualidad Económica]]></category>
+      <category><![CDATA[Palma de Mallorca]]></category>
+      <category><![CDATA[crisis]]></category>
+      <category><![CDATA[Covid 19]]></category>
+      <category><![CDATA[Televisión]]></category>
+      <media:description type="html"><![CDATA[El grupo Barceló cumple 90 años convertido en una de los más importantes conglomerados del turismo español.]]></media:description>
+      <media:title type="html"><![CDATA[PRESIDENTE GRUPO BARCELÓ]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/29/16354970211462.jpg" medium="image" width="1920" height="2160" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/29/16354970211462_150x0.jpg" width="150" height="168" />
+      <guid>https://www.elmundo.es/economia/actualidad-economica/2021/10/31/617a6802e4d4d84b628b45a2.html</guid>
+      <pubDate>Sun, 31 Oct 2021 17:15:08 +0100</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[La posverdad de la reforma laboral]]></title>
+      <description><![CDATA[&nbsp;<a href="https://www.elmundo.es/espana/2021/10/31/617d85b6fc6c83e9458b460a.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[FRANCISCO PASCUAL]]></creator>
+      <link>https://www.elmundo.es/espana/2021/10/31/617d85b6fc6c83e9458b460a.html</link>
+      <category><![CDATA[Unidas Podemos]]></category>
+      <category><![CDATA[PSOE]]></category>
+      <category><![CDATA[Wuhan]]></category>
+      <category><![CDATA[Facebook]]></category>
+      <media:description type="html"><![CDATA[Colocar en una misma frase los nombres de <strong>Arcadi Espada</strong> y <strong>Donald Trump</strong> es un ejercicio no exento de riesgos, pero la actualidad manda. Ambos ha]]></media:description>
+      <media:title type="html"><![CDATA[ESPAÑA|COLUMNA DESVIADA]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/30/16356167133121.jpg" medium="image" width="3072" height="2046" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/30/16356167133121_150x0.jpg" width="150" height="99" />
+      <guid>https://www.elmundo.es/espana/2021/10/31/617d85b6fc6c83e9458b460a.html</guid>
+      <pubDate>Sun, 31 Oct 2021 01:47:26 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Un menor herido grave y cuatro detenidos tras una pelea durante una fiesta en un chalé de Las Rozas]]></title>
+      <description><![CDATA[&nbsp;<a href="https://www.elmundo.es/madrid/2021/10/31/617e881afc6c835e378b45a2.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[LUIS F. DURÁN]]></creator>
+      <link>https://www.elmundo.es/madrid/2021/10/31/617e881afc6c835e378b45a2.html</link>
+      <category><![CDATA[Las Rozas de Madrid]]></category>
+      <category><![CDATA[Fernando Hierro]]></category>
+      <category><![CDATA[Madrid]]></category>
+      <category><![CDATA[Comunidad de Madrid]]></category>
+      <category><![CDATA[Guardia Civil]]></category>
+      <category><![CDATA[joven]]></category>
+      <category><![CDATA[hierro]]></category>
+      <category><![CDATA[San Fermín]]></category>
+      <media:description type="html"><![CDATA[<strong>Un joven de 17 años ha ingresado</strong> en estado <strong>grave en el Hospital Puerta de Hierro</strong> por un <strong>traumatismo craneoencefálico</strong> tras una]]></media:description>
+      <media:title type="html"><![CDATA[SUCESOS]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/31/16356828022042.jpg" medium="image" width="900" height="675" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/31/16356828022042_150x0.jpg" width="150" height="112" />
+      <guid>https://www.elmundo.es/madrid/2021/10/31/617e881afc6c835e378b45a2.html</guid>
+      <pubDate>Sun, 31 Oct 2021 13:34:05 +0100</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[La adopción de 'niños chilenos robados' durante la dictadura de Pinochet sacude Suecia]]></title>
+      <description><![CDATA[Una investigación revela los casos de 630 niños llevados a Suecia de forma irregular en los años de la dictadura&nbsp;<a href="https://www.elmundo.es/internacional/2021/10/31/617ed4b5fdddff75b38b45c4.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[SEBASTIÁN FEST]]></creator>
+      <link>https://www.elmundo.es/internacional/2021/10/31/617ed4b5fdddff75b38b45c4.html</link>
+      <category><![CDATA[Suecia]]></category>
+      <category><![CDATA[Chile]]></category>
+      <category><![CDATA[niño]]></category>
+      <category><![CDATA[Mundo]]></category>
+      <category><![CDATA[salud]]></category>
+      <media:description type="html"><![CDATA[Una investigación revela los casos de 630 niños llevados a Suecia de forma irregular en los años de la dictadura]]></media:description>
+      <media:title type="html"><![CDATA[CHILE]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/31/16357038467760.jpg" medium="image" width="3072" height="2047" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/31/16357038467760_150x0.jpg" width="150" height="99" />
+      <guid>https://www.elmundo.es/internacional/2021/10/31/617ed4b5fdddff75b38b45c4.html</guid>
+      <pubDate>Sun, 31 Oct 2021 19:13:05 +0100</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Un hombre disfrazado de Joker hiere a diez pasajeros en un ataque con cuchillo en el metro de Tokio]]></title>
+      <description><![CDATA[El atacante provoca además un incendio en la línea de metro Keio, la estación ferroviaria más transitada del mundo&nbsp;<a href="https://www.elmundo.es/internacional/2021/10/31/617ebe7ffc6c83a6338b4574.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[LUCAS DE LA CAL]]></creator>
+      <link>https://www.elmundo.es/internacional/2021/10/31/617ebe7ffc6c83a6338b4574.html</link>
+      <category><![CDATA[Halloween]]></category>
+      <category><![CDATA[Joker]]></category>
+      <category><![CDATA[Twitter]]></category>
+      <category><![CDATA[Japón]]></category>
+      <category><![CDATA[hombre]]></category>
+      <category><![CDATA[Televisión]]></category>
+      <media:description type="html"><![CDATA[El atacante provoca además un incendio en la línea de metro Keio, la estación ferroviaria más transitada del mundo]]></media:description>
+      <media:title type="html"><![CDATA[ASIA]]></media:title>
+      <guid>https://www.elmundo.es/internacional/2021/10/31/617ebe7ffc6c83a6338b4574.html</guid>
+      <pubDate>Sun, 31 Oct 2021 17:40:39 +0100</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[El asistente 'maldito' de Alec Baldwin y una armera también sospechosa]]></title>
+      <description><![CDATA[Él fue quien gritó 'arma fría' y tiene un largo historial, estaba en el equipo de rodaje en el que murió también de un tiro el hijo de Bruce Lee. Ella, una ex modelo que estaba "muy verde", fue la que puso tres pistolas sobre el carrito, incluida la que mató a  Halyna Hutchins&nbsp;<a href="https://www.elmundo.es/cronica/2021/10/31/617c5ae1fc6c83dd1e8b45a7.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[PABLO SCARPELLINI]]></creator>
+      <link>https://www.elmundo.es/cronica/2021/10/31/617c5ae1fc6c83dd1e8b45a7.html</link>
+      <category><![CDATA[Alec Baldwin]]></category>
+      <category><![CDATA[Brad Pitt]]></category>
+      <category><![CDATA[arma]]></category>
+      <category><![CDATA[Televisión]]></category>
+      <category><![CDATA[teatro]]></category>
+      <category><![CDATA[salud]]></category>
+      <media:description type="html"><![CDATA[Él fue quien gritó 'arma fría' y tiene un largo historial, estaba en el equipo de rodaje en el que murió también de un tiro el hijo de Bruce Lee. Ella, una ex modelo que estaba "muy verde", fue la que puso tres pistolas sobre el carrito, incluida la que mató a  Halyna Hutchins]]></media:description>
+      <media:title type="html"><![CDATA[ESCÁNDALO]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/29/16355402017570.jpg" medium="image" width="1200" height="800" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/29/16355402017570_150x0.jpg" width="150" height="100" />
+      <guid>https://www.elmundo.es/cronica/2021/10/31/617c5ae1fc6c83dd1e8b45a7.html</guid>
+      <pubDate>Sun, 31 Oct 2021 13:49:03 +0100</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Muere el 'padre' del tiramisú]]></title>
+      <description><![CDATA[Fallece a los 93 años el dueño del restaurante Alle Beccherie, en Treviso, donde se cree que nació esta tarta de café y mascarpone&nbsp;<a href="https://www.elmundo.es/cultura/2021/10/31/617ed61821efa0aa378b45e2.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[Lydia Capasso]]></creator>
+      <link>https://www.elmundo.es/cultura/2021/10/31/617ed61821efa0aa378b45e2.html</link>
+      <media:description type="html"><![CDATA[Fallece a los 93 años el dueño del restaurante Alle Beccherie, en Treviso, donde se cree que nació esta tarta de café y mascarpone]]></media:description>
+      <media:title type="html"><![CDATA[GASTRONOMÍA|Ado Campeol]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/31/16357025075888.jpg" medium="image" width="1200" height="800" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/31/16357025075888_150x0.jpg" width="150" height="100" />
+      <guid>https://www.elmundo.es/cultura/2021/10/31/617ed61821efa0aa378b45e2.html</guid>
+      <pubDate>Sun, 31 Oct 2021 18:49:06 +0100</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Ocho siglos de Alfonso X el Sabio, el rey cosmopolita que forjó el primer Estado moderno de Europa]]></title>
+      <description><![CDATA[Potenció el romance sobre el latín, impulsó la escuela de traductores de Toledo, unificó las leyes en los distintos reinos y escribió las 'Cantigas'. Un ensayo y dos exposiciones recordarán al primer rey que sentó las bases de un Estado moderno&nbsp;<a href="https://www.elmundo.es/papel/historias/2021/10/29/6172b4e021efa0a20b8b464b.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[Manuel Llorente]]></creator>
+      <link>https://www.elmundo.es/papel/historias/2021/10/29/6172b4e021efa0a20b8b464b.html</link>
+      <category><![CDATA[Toledo]]></category>
+      <category><![CDATA[Cádiz]]></category>
+      <category><![CDATA[Mundo]]></category>
+      <category><![CDATA[cultura]]></category>
+      <category><![CDATA[historia]]></category>
+      <media:description type="html"><![CDATA[Potenció el romance sobre el latín, impulsó la escuela de traductores de Toledo, unificó las leyes en los distintos reinos y escribió las 'Cantigas'. Un ensayo y dos exposiciones recordarán al primer rey que sentó las bases de un Estado moderno]]></media:description>
+      <media:title type="html"><![CDATA[HISTORIAS]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/22/16349191533488.jpg" medium="image" width="1920" height="2160" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/22/16349191533488_150x0.jpg" width="150" height="168" />
+      <guid>https://www.elmundo.es/papel/historias/2021/10/29/6172b4e021efa0a20b8b464b.html</guid>
+      <pubDate>Sun, 31 Oct 2021 14:19:53 +0100</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[La arriesgada apuesta por el pasado de LeBron James y los Lakers]]></title>
+      <description><![CDATA[El irregular inicio de temporada aumenta las dudas sobre el equipo angelino y su capacidad defensiva. "Nos dan por perdidos porque somos viejos"&nbsp;<a href="https://www.elmundo.es/deportes/baloncesto/nba/2021/10/31/617bdc82e4d4d8a8578b45c6.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[LUCAS SÁEZ-BRAVO]]></creator>
+      <link>https://www.elmundo.es/deportes/baloncesto/nba/2021/10/31/617bdc82e4d4d8a8578b45c6.html</link>
+      <category><![CDATA[Anthony Davis]]></category>
+      <category><![CDATA[NBA]]></category>
+      <category><![CDATA[Lebron James]]></category>
+      <category><![CDATA[deportes]]></category>
+      <category><![CDATA[Baloncesto]]></category>
+      <media:description type="html"><![CDATA[El irregular inicio de temporada aumenta las dudas sobre el equipo angelino y su capacidad defensiva. "Nos dan por perdidos porque somos viejos"]]></media:description>
+      <media:title type="html"><![CDATA[NBA 2021 - 2022]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/29/16355072428052.jpg" medium="image" width="3072" height="1951" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/29/16355072428052_150x0.jpg" width="150" height="95" />
+      <guid>https://www.elmundo.es/deportes/baloncesto/nba/2021/10/31/617bdc82e4d4d8a8578b45c6.html</guid>
+      <pubDate>Sun, 31 Oct 2021 14:46:32 +0100</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[De codearse con Yoko Ono o Kurt Cobain a no salir de su casa de Madrid por agorafobia: "Ya no le temo a la muerte"]]></title>
+      <description><![CDATA[La ex periodista Ruth Baza sufre esta enfermedad que se une a su anorexia y a una ceguera en ciernes. "No me atrevo ni a sacar la cabeza por la ventana"&nbsp;<a href="https://www.elmundo.es/madrid/2021/10/31/6154bced21efa04d348b458d.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[DANIEL SOMOLINOS]]></creator>
+      <link>https://www.elmundo.es/madrid/2021/10/31/6154bced21efa04d348b458d.html</link>
+      <media:description type="html"><![CDATA[La ex periodista Ruth Baza sufre esta enfermedad que se une a su anorexia y a una ceguera en ciernes. "No me atrevo ni a sacar la cabeza por la ventana"]]></media:description>
+      <media:title type="html"><![CDATA[SOCIEDAD|Ocho años entre cuatro paredes]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/09/29/16329434715737.jpg" medium="image" width="1280" height="1089" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/09/29/16329434715737_150x0.jpg" width="150" height="127" />
+      <guid>https://www.elmundo.es/madrid/2021/10/31/6154bced21efa04d348b458d.html</guid>
+      <pubDate>Sun, 31 Oct 2021 01:55:36 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[La verdad de Dolores Vázquez contada por la periodista (Toñi Moreno) que la convenció para que rompiera su silencio en un documental]]></title>
+      <description><![CDATA[El viaje a Galicia del que nacería el documental en el que, por vez primera, el rostro que representa los errores judiciales cuenta su historia. Ser acusada y condenada por el crimen de Rocío Wanninkhof le destrozó la vida&nbsp;<a href="https://www.elmundo.es/cronica/2021/10/30/617c5011fdddff31608b459b.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[Toñi Moreno]]></creator>
+      <link>https://www.elmundo.es/cronica/2021/10/30/617c5011fdddff31608b459b.html</link>
+      <category><![CDATA[Málaga]]></category>
+      <category><![CDATA[Londres]]></category>
+      <category><![CDATA[Guardia Civil]]></category>
+      <category><![CDATA[Bizum]]></category>
+      <category><![CDATA[HBO]]></category>
+      <category><![CDATA[Toñi Moreno]]></category>
+      <category><![CDATA[poder]]></category>
+      <category><![CDATA[comunicación]]></category>
+      <media:description type="html"><![CDATA[El viaje a Galicia del que nacería el documental en el que, por vez primera, el rostro que representa los errores judiciales cuenta su historia. Ser acusada y condenada por el crimen de Rocío Wanninkhof le destrozó la vida]]></media:description>
+      <media:title type="html"><![CDATA[ENCUENTRO EN BETANZOS]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/29/16355369749428.jpg" medium="image" width="1200" height="800" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/29/16355369749428_150x0.jpg" width="150" height="100" />
+      <guid>https://www.elmundo.es/cronica/2021/10/30/617c5011fdddff31608b459b.html</guid>
+      <pubDate>Sun, 31 Oct 2021 11:19:01 +0100</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Yon González, un actor apasionado del karate, da vida a un etarra en 'Érase una vez en Euskadi']]></title>
+      <description><![CDATA[La estrella de series como Gran Hotel o Las chicas del cable o películas como Perdiendo el norte participa en Érase una vez en Euskadi, un melodrama que refleja, a través de la mirada inocente de cuatro niños, los años de plomo de ETA.&nbsp;<a href="https://www.elmundo.es/metropoli/cine/2021/10/31/6179524ae4d4d83d6e8b456f.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[JAVIER ESTRADA]]></creator>
+      <link>https://www.elmundo.es/metropoli/cine/2021/10/31/6179524ae4d4d83d6e8b456f.html</link>
+      <category><![CDATA[cine]]></category>
+      <category><![CDATA[cultura]]></category>
+      <category><![CDATA[Estreno]]></category>
+      <category><![CDATA[ETA]]></category>
+      <category><![CDATA[País Vasco]]></category>
+      <media:description type="html"><![CDATA[La estrella de series como Gran Hotel o Las chicas del cable o películas como Perdiendo el norte participa en Érase una vez en Euskadi, un melodrama que refleja, a través de la mirada inocente de cuatro niños, los años de plomo de ETA.]]></media:description>
+      <media:title type="html"><![CDATA[CINE]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/27/16353406386504.jpg" medium="image" width="3072" height="2128" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/27/16353406386504_150x0.jpg" width="150" height="103" />
+      <guid>https://www.elmundo.es/metropoli/cine/2021/10/31/6179524ae4d4d83d6e8b456f.html</guid>
+      <pubDate>Sun, 31 Oct 2021 14:08:04 +0100</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Así se ordenan los alimentos en el frigorífico para conservarlos mejor]]></title>
+      <description><![CDATA[¿Realmente importa el orden en que colocamos los alimentos dentro del frigorífico? Sí, porque se evita el crecimiento de microorganismos y se alarga la vida de los productos&nbsp;<a href="https://www.elmundo.es/ciencia-y-salud/salud/2021/10/31/617bb9e5fdddff65708b4604.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[BOTICARIA GARCÍA]]></creator>
+      <link>https://www.elmundo.es/ciencia-y-salud/salud/2021/10/31/617bb9e5fdddff65708b4604.html</link>
+      <category><![CDATA[Ciencia y Salud]]></category>
+      <category><![CDATA[salud]]></category>
+      <category><![CDATA[Alimentación]]></category>
+      <category><![CDATA[Alimentación saludable]]></category>
+      <category><![CDATA[alimentos]]></category>
+      <media:description type="html"><![CDATA[¿Realmente importa el orden en que colocamos los alimentos dentro del frigorífico? Sí, porque se evita el crecimiento de microorganismos y se alarga la vida de los productos]]></media:description>
+      <media:title type="html"><![CDATA[BOTICARIA GARCÍA|Consultorio]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/29/16355307333914.jpg" medium="image" width="1200" height="800" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/29/16355307333914_150x0.jpg" width="150" height="100" />
+      <guid>https://www.elmundo.es/ciencia-y-salud/salud/2021/10/31/617bb9e5fdddff65708b4604.html</guid>
+      <pubDate>Sun, 31 Oct 2021 14:05:19 +0100</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Steve Jobs lo odiaba: a subasta la primera tablet creada por Apple]]></title>
+      <description><![CDATA[Aunque a día de hoy el iPad es conocido y un producto usado por millones, el primer tablet que Apple desarrollara nunca vio la luz del día&nbsp;<a href="https://www.elmundo.es/tecnologia/gadgets/2021/10/31/6172ac74fdddff95a08b4637.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[PIXEL]]></creator>
+      <link>https://www.elmundo.es/tecnologia/gadgets/2021/10/31/6172ac74fdddff95a08b4637.html</link>
+      <category><![CDATA[Gadgets]]></category>
+      <category><![CDATA[tecnología]]></category>
+      <category><![CDATA[Steve Jobs]]></category>
+      <category><![CDATA[Estados Unidos]]></category>
+      <category><![CDATA[iPad]]></category>
+      <category><![CDATA[TodoApple]]></category>
+      <media:description type="html"><![CDATA[Aunque a día de hoy el iPad es conocido y un producto usado por millones, el primer tablet que Apple desarrollara nunca vio la luz del día]]></media:description>
+      <media:title type="html"><![CDATA[GADGETS]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/22/16349051722274.jpg" medium="image" width="1200" height="800" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/22/16349051722274_150x0.jpg" width="150" height="100" />
+      <guid>https://www.elmundo.es/tecnologia/gadgets/2021/10/31/6172ac74fdddff95a08b4637.html</guid>
+      <pubDate>Sun, 31 Oct 2021 19:34:09 +0100</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Toyota bZ4x: un eléctrico cuyas baterías son 'eternas']]></title>
+      <description><![CDATA[El bZ4X durará lo que dure su pila integrada en el chasis. Claro que, según Toyota, con 10 años o 240.000 km de uso estará al 90% de su capacidad. Con esos plazos, 'usar y tirar' suena mejor.&nbsp;<a href="https://www.elmundo.es/motor/2021/10/30/617c0fa4fc6c83cc4e8b4647.html">Leer</a><img src="http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml" alt=""/>]]></description>
+      <creator><![CDATA[Fernando Llamas]]></creator>
+      <link>https://www.elmundo.es/motor/2021/10/30/617c0fa4fc6c83cc4e8b4647.html</link>
+      <category><![CDATA[Toyota]]></category>
+      <category><![CDATA[SUV]]></category>
+      <category><![CDATA[Europa]]></category>
+      <category><![CDATA[Toyota Prius]]></category>
+      <category><![CDATA[4x4]]></category>
+      <category><![CDATA[EL MUNDO]]></category>
+      <category><![CDATA[Subaru]]></category>
+      <category><![CDATA[Volkswagen]]></category>
+      <category><![CDATA[batería]]></category>
+      <category><![CDATA[Coches híbridos]]></category>
+      <category><![CDATA[Motor]]></category>
+      <media:description type="html"><![CDATA[El bZ4X durará lo que dure su pila integrada en el chasis. Claro que, según Toyota, con 10 años o 240.000 km de uso estará al 90% de su capacidad. Con esos plazos, 'usar y tirar' suena mejor.]]></media:description>
+      <media:title type="html"><![CDATA[MOTOR|Se presenta en Europa el 2 de diciembre]]></media:title>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/29/16355210796355.jpg" medium="image" width="3072" height="2048" />
+      <media:thumbnail url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/10/29/16355210796355_150x0.jpg" width="150" height="100" />
+      <guid>https://www.elmundo.es/motor/2021/10/30/617c0fa4fc6c83cc4e8b4647.html</guid>
+      <pubDate>Sun, 31 Oct 2021 19:37:15 +0100</pubDate>
+    </item>
+  </channel>
+</rss>
